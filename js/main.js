@@ -35,7 +35,7 @@ $(function () {
   // page loading
   $(document).ready(function () {
     document.getElementById("copyright").innerHTML =
-      "© " + new Date().getFullYear() + " Mai Nga";
+      "© " + new Date().getFullYear() + " Angel Agustin A.";
     anime({
       targets: ".art-preloader .art-preloader-content",
       opacity: [0, 1],
